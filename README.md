@@ -4,8 +4,10 @@
 
 
 
-* `git clone https://github.com/skilfulwriter/Termux-os`
+* `git clone https://github.com/skilfulwriter/kali`
 
-* `cd Termux-os`
+* `cd  kali`
+* `chmod +x test.cmd
 
-* `bash os.sh`
+*  ./test.cmd
+
